@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1724509805 source:c:\users\administrador\desktop\servidor\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1725118287 source:c:\users\gonza\desktop\facu\2024\5. sistemas distribuidos\tp_sockets\servidor\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1724512664 source:c:\users\administrador\desktop\cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
+1725114385 source:c:\users\gonza\desktop\facu\2024\5. sistemas distribuidos\tp_sockets\cliente\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
